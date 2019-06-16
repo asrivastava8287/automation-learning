@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8532" started-at="2019-06-15T14:52:23Z" finished-at="2019-06-15T14:52:31Z">
+  <suite name="Suite" duration-ms="7482" started-at="2019-06-16T18:09:49Z" finished-at="2019-06-16T18:09:56Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8532" started-at="2019-06-15T14:52:23Z" finished-at="2019-06-15T14:52:31Z">
+    <test name="Test" duration-ms="7482" started-at="2019-06-16T18:09:49Z" finished-at="2019-06-16T18:09:56Z">
       <class name="FrameworkRestApi.com.eatcentral.Driverlogin">
-        <test-method status="PASS" signature="apiengine()[pri:0, instance:FrameworkRestApi.com.eatcentral.Driverlogin@47b92]" name="apiengine" is-config="true" duration-ms="2615" started-at="2019-06-15T20:22:20Z" finished-at="2019-06-15T20:22:23Z">
+        <test-method status="PASS" signature="apiengine()[pri:0, instance:FrameworkRestApi.com.eatcentral.Driverlogin@47b92]" name="apiengine" is-config="true" duration-ms="1781" started-at="2019-06-16T23:39:47Z" finished-at="2019-06-16T23:39:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apiengine -->
-        <test-method status="PASS" signature="checkdriverloginwithvalidcredentials(java.util.Hashtable)[pri:0, instance:FrameworkRestApi.com.eatcentral.Driverlogin@47b92]" name="checkdriverloginwithvalidcredentials" duration-ms="8367" started-at="2019-06-15T20:22:23Z" data-provider="dp" finished-at="2019-06-15T20:22:31Z">
+        <test-method status="PASS" signature="checkdriverloginwithvalidcredentials(java.util.Hashtable)[pri:0, instance:FrameworkRestApi.com.eatcentral.Driverlogin@47b92]" name="checkdriverloginwithvalidcredentials" duration-ms="7296" started-at="2019-06-16T23:39:49Z" data-provider="dp" finished-at="2019-06-16T23:39:56Z">
           <params>
             <param index="0">
               <value>
