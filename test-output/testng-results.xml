@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8532" started-at="2019-06-15T14:52:23Z" finished-at="2019-06-15T14:52:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8532" started-at="2019-06-15T14:52:23Z" finished-at="2019-06-15T14:52:31Z">
+      <class name="FrameworkRestApi.com.eatcentral.Driverlogin">
+        <test-method status="PASS" signature="apiengine()[pri:0, instance:FrameworkRestApi.com.eatcentral.Driverlogin@47b92]" name="apiengine" is-config="true" duration-ms="2615" started-at="2019-06-15T20:22:20Z" finished-at="2019-06-15T20:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiengine -->
+        <test-method status="PASS" signature="checkdriverloginwithvalidcredentials(java.util.Hashtable)[pri:0, instance:FrameworkRestApi.com.eatcentral.Driverlogin@47b92]" name="checkdriverloginwithvalidcredentials" duration-ms="8367" started-at="2019-06-15T20:22:23Z" data-provider="dp" finished-at="2019-06-15T20:22:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=asdfghjkl, email=akash1@mailinator.com, apitoken=1EAcwQsgEvqfGgZenWEJsvKEk3Fim6SmyjyJngb08wXqlyw8KRiF2qeitC6N, drivername=akash sri, message=Record found.}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdriverloginwithvalidcredentials -->
+      </class> <!-- FrameworkRestApi.com.eatcentral.Driverlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
